@@ -1,0 +1,24 @@
+Elements button: //div[@class='header-text'][normalize-space()='Elements']
+Text Box Button: span[class = 'text'];
+Check Box button: //span[text()='Check Box']
+Radio button button: //span[text()='Radio Button']
+Web Tables button: //span[text()='Web Tables']
+Buttons button: //span[text()='Buttons']
+Links button: //span[text()='Links']
+Broken Links - Images button: //span[text()='Broken Links - Images']
+Upload and Download button: //span[text()='Upload and Download']
+Dynamic Properties button: //span[text()='Dynamic Properties']
+--------------------------------------------------------------------------
+Elements/Text Box
+Full name : //input[@placeholder= 'Full Name'];
+Email: //input[@type = 'email']
+Curent Address: //textarea[@id = 'currentAddress']
+Permanent Address: //textarea[@id = 'permanentAddress']
+Submit button: //button[text() = 'Submit']
+----------------------------------------------------------------------------
+Elements/Check Box
+---------------------------------------------------------------------------
+Elements/Radio Button
+Yes radio : //label[@for='yesRadio']
+Impressive radio:
+
